@@ -50,8 +50,5 @@ Code documentation can be found [here](https://harry-7.github.io/speech-emotion-
 A `setup.py` file is provided in the repository. You can run `sudo python3 setup.py install` to install it at system level.
 If you don't have privileges to do so, you can install it at user level by running `python3 setup.py install --user`.  
 
-### Contributing to the repository.
-* If you find any problem with the code, please feel free to open an issue.
-* Found something you can improve, please send me a pull request with your changes.
-I will be more than happy to review and approve them.
+
 
