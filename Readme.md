@@ -55,4 +55,3 @@ If you don't have privileges to do so, you can install it at user level by runni
 * Found something you can improve, please send me a pull request with your changes.
 I will be more than happy to review and approve them.
 
-**Note**: If you find this code useful, please leave a star :)
